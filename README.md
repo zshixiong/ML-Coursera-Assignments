@@ -1,4 +1,5 @@
 # ML-Coursera-Assignments
+Copyrights are reserved!
 It includes the assignments I did in the Machine Learning Course on Coursera.
 
 It contains the following assignments:
